@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # Constantes
 vc = 25  # Velocidad de crucero (m/s)
-n = 14  # Número de vehículos
+n = 9  # Número de vehículos
 L = 5  # Longitud del vehículo (m)
 d = 10  # Distancia entre vehículos (m)
 T = 60  # Tiempo total en segundos
